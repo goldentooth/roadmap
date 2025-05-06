@@ -4,6 +4,7 @@ Planning and researching the future of Goldentooth.
 This will be split out into separate files soon...
 
 - Finish up [Pulse](https://github.com/goldentooth/pulse/).
+- Make [Pulse](https://github.com/goldentooth/pulse/) functionally deployable in Goldentooth.
 - Software/services in GitHub Profile README should go to repo topics or custom properties.
 - Set up existing services to speak to Consul for service discovery. So we'll be able to e.g. see services announce themselves, see health checks, etc.
 - Set up Authelia as a more secure front door. I would like to set up an account system eventually and grant privileges. Like, I don't _want_ people to destroy my cluster, not substantial privileges, but to be able to poke around a bit. Presumably read-only. See graphs, visualizations, etc.
